@@ -43,3 +43,11 @@ lightning_modules/    # PyTorch Lightning wrappers
 train.py              # entrypoint
 visualization.py      # learning curves & dumbbell plots
 ```
+
+
+## Authors
+
+- [Arian Jafari](https://github.com/Arian-jafari)
+- [Parsa Shahkar](https://github.com/parsashahkar21)
+- [Paniz Roozegar](https://github.com/paniizz)
+
