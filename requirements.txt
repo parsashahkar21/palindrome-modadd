@@ -1,0 +1,8 @@
+torch
+pytorch-lightning
+numpy
+scikit-learn
+matplotlib
+seaborn
+frozendict
+torchmetrics
